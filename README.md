@@ -20,7 +20,7 @@ A web application that allows users to track their fitness progress, log workout
 
 ## Getting Started
 1. Clone the repository
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/TehreemFarooqi-25/DevOps-A1.git
 2. Change directory to repository
    cd repository
 3. To list the branches
