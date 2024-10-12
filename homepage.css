@@ -8,6 +8,14 @@ h1 {
     font-size: 2.5rem; /* Increase heading size */
     color: #2C3E50; /* Darker color for headings */
 }
+.features, .testimonials {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ddd; /* Light border for separation */
+    border-radius: 8px;
+    background-color: #ffffff; /* White background */
+}
+
 
 
 p.lead {
