@@ -32,3 +32,8 @@ A web application that allows users to track their fitness progress, log workout
    git commit -m "message"
 6. Push whatever changes you have made to a file
    git push origin <branch-name>
+
+## Merged all the branches into main
+## To install 
+to use this repository simply clone the repository in your local machine
+nevigate to the directory and double click the html files.
